@@ -1,0 +1,65 @@
+[
+  {
+    "name": "James Gosling",
+    "fullName": "James Arthur Gosling",
+    "title": "Father of the Java programming language",
+    "otherNames": ["Dr. Java"],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/220px-James_Gosling_2008.jpg"
+  },
+  {
+    "name": "Andrew Rubin",
+    "fullName": "Andrew E. Rubin",
+    "title": "Father of Android",
+    "otherNames": [],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2008_Google_Developer_Day_in_Japan_-_Andy_Rubin.jpg/220px-2008_Google_Developer_Day_in_Japan_-_Andy_Rubin.jpg"
+  },
+  {
+    "name": "Brendan Eich",
+    "fullName": "Brendan Eich",
+    "title": "Designer of JavaScript",
+    "otherNames": ["Co-founded the Mozilla project"],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/220px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg"
+  },
+  {
+    "name": "Kathleen Booth",
+    "fullName": "Kathleen Hylda Valerie Booth",
+    "title": "Designed and developed the first assembly language",
+    "otherNames": ["Wrote the first assembly language"],
+    "profPic": "https://miro.medium.com/max/666/1*C643vOFywTSIq0wXIe_Vng.jpeg"
+  },
+  {
+    "name": "Chris Lattner",
+    "fullName": "Chris Lattner",
+    "title": "Designer of Swift",
+    "otherNames": ["Main author of LLVM"],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ChrisLattnerHeadshot2020.jpg/220px-ChrisLattnerHeadshot2020.jpg"
+  },
+  {
+    "name": "Dennis Ritchie",
+    "fullName": "Dennis MacAlistair Ritchie",
+    "title": "Designer of C",
+    "otherNames": ["Created the C programming language"],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/220px-Dennis_Ritchie_2011.jpg"
+  },
+  {
+    "name": "Guido van Rossum",
+    "fullName": "Guido van Rossum",
+    "title": "Designer of Python",
+    "otherNames": ["Creator of the Python programming language"],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Guido-portrait-2014-drc.jpg/220px-Guido-portrait-2014-drc.jpg"
+  },
+  {
+    "name": "Rasmus Lerdorf",
+    "fullName": "Rasmus Lerdorf",
+    "title": "Father of PHP",
+    "otherNames": ["Co-authored and inspired the PHP scripting language"],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rasmus_Lerdorf_August_2014_%28cropped%29.JPG/220px-Rasmus_Lerdorf_August_2014_%28cropped%29.JPG"
+  },
+  {
+    "name": "Bjarne Stroustrup",
+    "fullName": "Bjarne Stroustrup",
+    "title": "Designer of C++",
+    "otherNames": ["Most notable for the creation and development of the C++ programming language"],
+    "profPic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bjarne-stroustrup_%28cropped%29.jpg/220px-Bjarne-stroustrup_%28cropped%29.jpg"
+  }
+]
