@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/mghisham/mghisham.github.io?color=%237f52ff&style=for-the-badge)
+
 ### Hi there 👋
 
 ![mghisham github stats](https://github-readme-stats.vercel.app/api?username=mghisham&show_icons=true&show_icons=true&theme=radical)
